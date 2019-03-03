@@ -1,3 +1,10 @@
 body {
-    color:plum;
+    
+    text-align: center;
+    background-image: url("https://media.boingboing.net/wp-content/uploads/2016/11/bcf.png");
+
+}
+
+p {
+    font-size: 50px;
 }
